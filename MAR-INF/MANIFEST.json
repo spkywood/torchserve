@@ -1,0 +1,11 @@
+{
+  "createdOn": "11/04/2022 09:59:46",
+  "runtime": "python",
+  "model": {
+    "modelName": "model_name",
+    "serializedFile": "model.pt",
+    "handler": "model_handler",
+    "modelVersion": "1.0"
+  },
+  "archiverVersion": "0.3.0"
+}
